@@ -9,7 +9,7 @@ Create a new HTML file called ```problem1_cw.html```, and copy the code below in
 <p>Some thinks Switch-Cases are better than If statements.</p>
 <p>Most think For Loops are better than While Loops.</p>
 ```
-* Edit CSS file called ```problem1.css``` and link it to your HTML file
+* Create the CSS file called ```problem1.css``` and link it to your HTML file
 * Add CSS selector to make the h1 tags red, padded on all sides by 20px, and display 25% from the left side of the web page
 * Add CSS selector to make the h2 tags blue and have a 1px border
 * Add a CSS selector and use it to make all instances of the word 'better' green with a ```font-weight``` of ```bold```
@@ -17,7 +17,7 @@ Create a new HTML file called ```problem1_cw.html```, and copy the code below in
 
 ### Exercise 2:
 
-Start with the included HTML file ```problem2_cw.html```. Edit the CSS file called ```problem2_cw.css``` and create selectors to style the HTML as follows:
+Start with the included HTML file ```problem2_cw.html```. Create the CSS file called ```problem2_cw.css``` and create selectors to style the HTML as follows:
 
 * Give the p tags a gray background, and a right margin of 10%. 
 * Make the class "secondParagraph" have a background color of blue, and horizontally centered on the page.
